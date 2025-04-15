@@ -1,6 +1,8 @@
 # Analisador-de-Gases-Portatil-DGUS
 Repositorio destinado a documentacao do projeto do analisador de gases portatil
 
+# Hardware
+
 ## Pinagem de Sensores:
 
 ### K3O - CO2 Sensor
@@ -15,7 +17,7 @@ Repositorio destinado a documentacao do projeto do analisador de gases portatil
 | Vermelho | G0+ |
 
 
-#Software:
+# Software:
 ### DGUS Interface Grafica TO DO:
 - Documentar criacao do arquivo de Fontes do DGUS.
 - Documentar criacao do arquivos de Icons no DGUS.
