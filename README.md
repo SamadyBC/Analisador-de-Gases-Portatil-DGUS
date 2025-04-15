@@ -18,6 +18,8 @@ Repositorio destinado a documentacao do projeto do analisador de gases portatil
 | Vermelho | G0+ |
 
 ## DGUS Interface Grafica TO DO:
-- Fontes do DGUS.
-- Icons no DGUS.
-
+- Documentar criacao do arquivo de Fontes do DGUS.
+- Documentar criacao do arquivos de Icons no DGUS.
+- Documentar o processo de utilizacao da memoria RAM do DGUS
+- 
+- 
